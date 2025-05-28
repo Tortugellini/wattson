@@ -1,0 +1,3 @@
+POWER_INFORMATION_LOCATION = "/sys/class/power_supply/"
+BATTERY_NAME = "BAT0"
+DESIRED_PROPERTIES = "serial_number, technology, manufacturer, type, model_name, voltage_min_design, energy_full_design"
