@@ -20,6 +20,8 @@ ipykernel = "^6.29.5"
 matplotlib = "^3.10.3"
 pytest = "^8.3.5"
 dask = "^2025.5.1"
+sqlalchemy = "^2.0.41"
+scipy = "^1.15.3"
 
 
 [build-system]
