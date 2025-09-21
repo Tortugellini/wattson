@@ -22,6 +22,9 @@ pytest = "^8.3.5"
 dask = "^2025.5.1"
 sqlalchemy = "^2.0.41"
 scipy = "^1.15.3"
+ipympl = "^0.9.7"
+pyarrow = "^21.0.0"
+pymysql = "^1.1.2"
 
 
 [build-system]
